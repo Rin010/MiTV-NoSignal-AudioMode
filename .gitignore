@@ -1,0 +1,13 @@
+/build/
+/dist/
+.env
+.env.*
+local.properties
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.key
+*.pem
+*.idsig
+*.log
